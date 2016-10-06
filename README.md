@@ -1,10 +1,11 @@
 
 
 - Mathieu TUDISCO,
-- Flore de Lasteyrie,
+- Flore de LASTEYRIE,
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
 - Solal LUSSEYRAN,
-- Hugo PECH.
->>>>>>> refs/remotes/am-pa10/master
+- Adrien FRIGERIO,
+- Cyril BIDARIYN,
+- Hugo Pech.
